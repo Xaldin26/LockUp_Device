@@ -1,2 +1,4 @@
-Python Smart door lock with numeric keypad a
-n
+Python Smart door lock with numeric keypad and Finger print scanner
+multifactor authentication 
+
+
